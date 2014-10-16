@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cen:home|Door43 (cen)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cen|d43-cen repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cen/archive/master.zip|d43-cen.zip]]
+
+**Recent Changes**
+{{changes>ns = cen}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cen|Ethnologue data]]
+
